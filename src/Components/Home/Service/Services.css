@@ -1,0 +1,32 @@
+.grid-style{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.shadow-styles{
+    box-shadow: 10px 10px 8px 10px #888888;
+    border: 1px solid gray;
+}
+.herigth{
+    height: 200px;
+    width: 150px;
+}
+.service-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+}
+.service{
+   background-color:#4285F4;
+   color: white;
+}
+
+@media only screen and (max-width: 688px){
+    .service-container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (min-width: 689px) and (max-width: 991){
+    .service-container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

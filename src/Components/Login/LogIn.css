@@ -1,0 +1,28 @@
+.input-style input{
+    padding: 5px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border-radius: 5px;
+   width: 300px;
+
+}
+.size{
+    height: 500px;
+    width: 400px;
+    justify-content: center;
+}
+.btn-style{
+    background-color: red;
+    color: white;
+    height: 40px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+}
+
+.bg-infos{
+    background-color: #4267B2;
+}
+.bg-primarys{
+    background-color: #0F9D58;
+}
