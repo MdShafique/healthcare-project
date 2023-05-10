@@ -16,8 +16,8 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption className="text-black">
-                        <h3>Nordis medical center</h3>
-                        <h2>We will provide our parents a healthy life</h2>
+                        <h3>somonoo medical center</h3>
+                        <h2>We provide our best services</h2>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -28,8 +28,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption className="text-black">
-                        <h3>Nordis medical center</h3>
-                        <h2>We will provide our parents a healthy life.</h2>
+                        <h3>somonoo medical center</h3>
+                        <h2>We provide our best services</h2>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -40,8 +40,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption className="text-black">
-                        <h3>Nordis medical center</h3>
-                        <h2>We will provide our parents a healthy life.</h2>
+                        <h3>somonoo medical center</h3>
+                        <h2>We provide our best services</h2>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
